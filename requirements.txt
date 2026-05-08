@@ -4,6 +4,6 @@ joblib
 numpy
 flask 
 requests
-pands
+pandas
 streamlit
 gunicorn
